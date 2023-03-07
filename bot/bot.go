@@ -7,7 +7,7 @@ import (
 	"syscall"
 
 	"github.com/bwmarrin/discordgo"
-	"github.com/strwysthvn/discord-bot/config"
+	"github.com/strwyss/discord-bot/config"
 )
 
 func Start(cfg *config.AppConfig) {

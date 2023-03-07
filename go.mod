@@ -1,4 +1,4 @@
-module github.com/strwysthvn/discord-bot
+module github.com/strwyss/discord-bot
 
 go 1.14
 

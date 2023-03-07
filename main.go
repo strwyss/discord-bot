@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/strwysthvn/discord-bot/bot"
-	"github.com/strwysthvn/discord-bot/config"
+	"github.com/strwyss/discord-bot/bot"
+	"github.com/strwyss/discord-bot/config"
 )
 
 func main() {
